@@ -1,0 +1,19 @@
+Assignment Scenarios for Confidence Interval
+1. Among various ethnic groups, the standard deviation of heights is known to be approximately three inches. We wish to construct a 95% confidence interval for the mean height of male Swedes. Forty-eight male Swedes are surveyed. The sample mean is 71 inches. The sample standard deviation is 2.8 inches.
+Construct a 95% confidence interval for the population mean height of male Swedes
+
+2. Announcements for 84 upcoming engineering conferences were randomly picked from a stack of IEEE Spectrum magazines. The mean length of the conferences was 3.94 days, with a standard deviation of 1.28 days. Assume the underlying population is normal.
+Construct a 95% confidence interval for the population mean length of engineering conferences
+
+3. A camp director is interested in the mean number of letters each child sends during his or her camp session. 
+The population standard deviation is known to be 2.5.
+ A survey of 20 campers is taken. The mean from the sample is 7.9 with a sample standard deviation of 2.8.
+Construct a 90% confidence interval for the population mean number of letters campers send home
+
+formula:
+interval range : sample mean +- zscore (standard error)
+standard error = sample standard deviation/square root of n
+n sample size
+
+
+if the sample size is not given, sample mean +- zscore(standard deviation)

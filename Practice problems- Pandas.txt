@@ -1,0 +1,8 @@
+1. Find out the manufacturer details whose sells cars at maximum price
+2. Find out car details which provides least Horsepower
+3. Show the car models which provides above 20 mileage in city and belongs to Midsize type
+4. Show the Manufacturer and Model details of car with maximum weight.
+5. Show all cars which are USA based Origin and are priced between 20-30.
+6. What is the average price of cars
+7. What is the most common Horsepower provided in this dataset(use median)
+8. How many cylinders are most provided to the cars?

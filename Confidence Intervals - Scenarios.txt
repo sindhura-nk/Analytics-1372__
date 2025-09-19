@@ -1,0 +1,40 @@
+Student marks 
+sample mean - 78
+sample st dev - 15
+calculate the Total students mean score range considering 95% C.I 
+z = 2
+range = mean +- zscore(standard deviation)
+= 78 + - 2(15)
+= 78 +- 30
+ranges = intervals = (48,108)
+
+calculate considering 88% C.I
+consider z score for 88% as 1.55
+
+interval range = 78 +-(1.55)*15
+ = (54.75,101.25)
+
+
+Suppose that an accounting firm does a study to determine the time needed to complete one person’s tax forms. It randomly surveys 100 people. The sample mean is 23.6 hours. There is a known standard deviation of 7.0 hours. The population distribution is assumed to be normal.
+
+x¯= mean = 23.6
+  ________
+σ= 7
+  ________
+n= 100
+  ________
+
+
+Construct a 95% confidence interval for the population mean time to complete the tax forms.
+ standard error = standard deviation/square root of n
+		= 7/sqrt(100)
+		= 7/10
+		standard error =0.7
+zscore of 95% = 2
+
+confidence intervals are = mean + - zscore * standard error
+			= 23.6 +- (2*0.7)
+			= 23.6 +- (1.4)
+ interval for the population mean time to complete the tax forms = (22.2,25)in hours
+
+
